@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'SF Pro Display';
+}
+
+:root {
+    /* colors */
+    --white: #ffffff;
+    --black: #000000;
+    --black-without-selecting: rgba(0, 0, 0, 0.25);
+    --green: #3EB25E;
+    --green-without-selecting: rgba(62, 178, 94, 0.3);
+    --yellow: #FFFF7D;
+}
+
+a {
+    text-decoration: none;
+}
